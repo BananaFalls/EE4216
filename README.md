@@ -1,3 +1,1 @@
-test
-
-test 2 after username and email git bash 
+This is a github repo for EE4216 Hardware for Internet of Things module
